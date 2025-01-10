@@ -22,3 +22,4 @@ else if(b+c>a)
 else{
     alert("Triangle is Not Valid");
 }
+console.log("hii");
